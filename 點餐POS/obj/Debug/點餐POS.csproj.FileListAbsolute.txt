@@ -1,0 +1,10 @@
+C:\Users\smilechieh\Desktop\C#\PRA1\點餐POS\點餐POS\obj\Debug\點餐POS.csprojResolveAssemblyReference.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\點餐POS\點餐POS\obj\Debug\點餐POS.Form1.resources
+C:\Users\smilechieh\Desktop\C#\PRA1\點餐POS\點餐POS\obj\Debug\點餐POS.Properties.Resources.resources
+C:\Users\smilechieh\Desktop\C#\PRA1\點餐POS\點餐POS\obj\Debug\點餐POS.csproj.GenerateResource.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\點餐POS\點餐POS\obj\Debug\點餐POS.csproj.CoreCompileInputs.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\點餐POS\點餐POS\bin\Debug\點餐POS.exe.config
+C:\Users\smilechieh\Desktop\C#\PRA1\點餐POS\點餐POS\bin\Debug\點餐POS.exe
+C:\Users\smilechieh\Desktop\C#\PRA1\點餐POS\點餐POS\bin\Debug\點餐POS.pdb
+C:\Users\smilechieh\Desktop\C#\PRA1\點餐POS\點餐POS\obj\Debug\點餐POS.exe
+C:\Users\smilechieh\Desktop\C#\PRA1\點餐POS\點餐POS\obj\Debug\點餐POS.pdb

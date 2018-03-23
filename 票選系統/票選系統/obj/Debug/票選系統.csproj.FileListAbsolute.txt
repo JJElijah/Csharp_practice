@@ -1,0 +1,10 @@
+C:\Users\smilechieh\Desktop\C#\PRA1\票選系統\票選系統\bin\Debug\票選系統.exe.config
+C:\Users\smilechieh\Desktop\C#\PRA1\票選系統\票選系統\bin\Debug\票選系統.exe
+C:\Users\smilechieh\Desktop\C#\PRA1\票選系統\票選系統\bin\Debug\票選系統.pdb
+C:\Users\smilechieh\Desktop\C#\PRA1\票選系統\票選系統\obj\Debug\票選系統.csprojResolveAssemblyReference.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\票選系統\票選系統\obj\Debug\票選系統.Form1.resources
+C:\Users\smilechieh\Desktop\C#\PRA1\票選系統\票選系統\obj\Debug\票選系統.Properties.Resources.resources
+C:\Users\smilechieh\Desktop\C#\PRA1\票選系統\票選系統\obj\Debug\票選系統.csproj.GenerateResource.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\票選系統\票選系統\obj\Debug\票選系統.csproj.CoreCompileInputs.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\票選系統\票選系統\obj\Debug\票選系統.exe
+C:\Users\smilechieh\Desktop\C#\PRA1\票選系統\票選系統\obj\Debug\票選系統.pdb

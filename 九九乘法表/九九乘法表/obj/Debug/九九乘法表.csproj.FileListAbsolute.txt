@@ -1,0 +1,10 @@
+C:\Users\smilechieh\Desktop\C#\PRA1\九九乘法表\九九乘法表\bin\Debug\九九乘法表.exe.config
+C:\Users\smilechieh\Desktop\C#\PRA1\九九乘法表\九九乘法表\bin\Debug\九九乘法表.exe
+C:\Users\smilechieh\Desktop\C#\PRA1\九九乘法表\九九乘法表\bin\Debug\九九乘法表.pdb
+C:\Users\smilechieh\Desktop\C#\PRA1\九九乘法表\九九乘法表\obj\Debug\九九乘法表.csprojResolveAssemblyReference.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\九九乘法表\九九乘法表\obj\Debug\九九乘法表.Form1.resources
+C:\Users\smilechieh\Desktop\C#\PRA1\九九乘法表\九九乘法表\obj\Debug\九九乘法表.Properties.Resources.resources
+C:\Users\smilechieh\Desktop\C#\PRA1\九九乘法表\九九乘法表\obj\Debug\九九乘法表.csproj.GenerateResource.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\九九乘法表\九九乘法表\obj\Debug\九九乘法表.csproj.CoreCompileInputs.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\九九乘法表\九九乘法表\obj\Debug\九九乘法表.exe
+C:\Users\smilechieh\Desktop\C#\PRA1\九九乘法表\九九乘法表\obj\Debug\九九乘法表.pdb

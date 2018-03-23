@@ -1,0 +1,10 @@
+C:\Users\smilechieh\Desktop\C#\PRA1\字串處理\字串處理\bin\Debug\字串處理.exe.config
+C:\Users\smilechieh\Desktop\C#\PRA1\字串處理\字串處理\bin\Debug\字串處理.exe
+C:\Users\smilechieh\Desktop\C#\PRA1\字串處理\字串處理\bin\Debug\字串處理.pdb
+C:\Users\smilechieh\Desktop\C#\PRA1\字串處理\字串處理\obj\Debug\字串處理.csprojResolveAssemblyReference.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\字串處理\字串處理\obj\Debug\字串處理.Form1.resources
+C:\Users\smilechieh\Desktop\C#\PRA1\字串處理\字串處理\obj\Debug\字串處理.Properties.Resources.resources
+C:\Users\smilechieh\Desktop\C#\PRA1\字串處理\字串處理\obj\Debug\字串處理.csproj.GenerateResource.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\字串處理\字串處理\obj\Debug\字串處理.csproj.CoreCompileInputs.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\字串處理\字串處理\obj\Debug\字串處理.exe
+C:\Users\smilechieh\Desktop\C#\PRA1\字串處理\字串處理\obj\Debug\字串處理.pdb

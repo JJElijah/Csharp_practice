@@ -1,0 +1,10 @@
+C:\Users\smilechieh\Desktop\C#\PRA1\數學及亂數功能展示\數學及亂數功能展示\obj\Debug\數學及亂數功能展示.csprojResolveAssemblyReference.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\數學及亂數功能展示\數學及亂數功能展示\obj\Debug\數學及亂數功能展示.Form1.resources
+C:\Users\smilechieh\Desktop\C#\PRA1\數學及亂數功能展示\數學及亂數功能展示\obj\Debug\數學及亂數功能展示.Properties.Resources.resources
+C:\Users\smilechieh\Desktop\C#\PRA1\數學及亂數功能展示\數學及亂數功能展示\obj\Debug\數學及亂數功能展示.csproj.GenerateResource.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\數學及亂數功能展示\數學及亂數功能展示\obj\Debug\數學及亂數功能展示.csproj.CoreCompileInputs.cache
+C:\Users\smilechieh\Desktop\C#\PRA1\數學及亂數功能展示\數學及亂數功能展示\bin\Debug\數學及亂數功能展示.exe.config
+C:\Users\smilechieh\Desktop\C#\PRA1\數學及亂數功能展示\數學及亂數功能展示\bin\Debug\數學及亂數功能展示.exe
+C:\Users\smilechieh\Desktop\C#\PRA1\數學及亂數功能展示\數學及亂數功能展示\bin\Debug\數學及亂數功能展示.pdb
+C:\Users\smilechieh\Desktop\C#\PRA1\數學及亂數功能展示\數學及亂數功能展示\obj\Debug\數學及亂數功能展示.exe
+C:\Users\smilechieh\Desktop\C#\PRA1\數學及亂數功能展示\數學及亂數功能展示\obj\Debug\數學及亂數功能展示.pdb
