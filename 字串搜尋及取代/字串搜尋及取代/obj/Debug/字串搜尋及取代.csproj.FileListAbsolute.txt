@@ -1,0 +1,10 @@
+C:\Users\smilechieh\Desktop\C#\PRA\字串搜尋及取代\字串搜尋及取代\obj\Debug\字串搜尋及取代.csprojResolveAssemblyReference.cache
+C:\Users\smilechieh\Desktop\C#\PRA\字串搜尋及取代\字串搜尋及取代\obj\Debug\字串搜尋及取代.Form1.resources
+C:\Users\smilechieh\Desktop\C#\PRA\字串搜尋及取代\字串搜尋及取代\obj\Debug\字串搜尋及取代.Properties.Resources.resources
+C:\Users\smilechieh\Desktop\C#\PRA\字串搜尋及取代\字串搜尋及取代\obj\Debug\字串搜尋及取代.csproj.GenerateResource.cache
+C:\Users\smilechieh\Desktop\C#\PRA\字串搜尋及取代\字串搜尋及取代\obj\Debug\字串搜尋及取代.csproj.CoreCompileInputs.cache
+C:\Users\smilechieh\Desktop\C#\PRA\字串搜尋及取代\字串搜尋及取代\bin\Debug\字串搜尋及取代.exe.config
+C:\Users\smilechieh\Desktop\C#\PRA\字串搜尋及取代\字串搜尋及取代\bin\Debug\字串搜尋及取代.exe
+C:\Users\smilechieh\Desktop\C#\PRA\字串搜尋及取代\字串搜尋及取代\bin\Debug\字串搜尋及取代.pdb
+C:\Users\smilechieh\Desktop\C#\PRA\字串搜尋及取代\字串搜尋及取代\obj\Debug\字串搜尋及取代.exe
+C:\Users\smilechieh\Desktop\C#\PRA\字串搜尋及取代\字串搜尋及取代\obj\Debug\字串搜尋及取代.pdb

@@ -1,0 +1,10 @@
+C:\Users\smilechieh\Desktop\C#\PRA\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe.config
+C:\Users\smilechieh\Desktop\C#\PRA\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe
+C:\Users\smilechieh\Desktop\C#\PRA\Bubblesort\Bubblesort\bin\Debug\Bubblesort.pdb
+C:\Users\smilechieh\Desktop\C#\PRA\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csprojResolveAssemblyReference.cache
+C:\Users\smilechieh\Desktop\C#\PRA\Bubblesort\Bubblesort\obj\Debug\Bubblesort.Form1.resources
+C:\Users\smilechieh\Desktop\C#\PRA\Bubblesort\Bubblesort\obj\Debug\Bubblesort.Properties.Resources.resources
+C:\Users\smilechieh\Desktop\C#\PRA\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.GenerateResource.cache
+C:\Users\smilechieh\Desktop\C#\PRA\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\smilechieh\Desktop\C#\PRA\Bubblesort\Bubblesort\obj\Debug\Bubblesort.exe
+C:\Users\smilechieh\Desktop\C#\PRA\Bubblesort\Bubblesort\obj\Debug\Bubblesort.pdb
