@@ -138,3 +138,85 @@ namespace List_Capacity
     }
 }
 ```
+
+```c#
+namespace CMDTEST
+{
+    public class TestClassA:TestClassB
+    {
+        public override void Show()
+        {
+            Console.WriteLine("This is A Method");
+        }
+    }
+
+    public class TestClassB
+    {
+        public virtual void Show()
+        {
+            Console.WriteLine("This is B Method");
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            TestClassA TCA = new TestClassA();
+            TCA.Show();
+
+            TestClassB TCB = new TestClassB();
+            TCB.Show();
+
+            TestClassB TCBA = new TestClassA();
+            TCBA.Show();
+
+            Console.ReadLine();                      
+        }
+    }
+}
+```
+
+```c#
+namespace CMDTEST
+{
+    public class TestClassA:TestClassB
+    {
+        public  new void Show()
+        {
+            Console.WriteLine("This is A Method");
+        }
+    }
+
+    public class TestClassB
+    {
+        public void Show()
+        {
+            Console.WriteLine("This is B Method");
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            TestClassA TCA = new TestClassA();
+            TCA.Show();
+
+            TestClassB TCB = new TestClassB();
+            TCB.Show();
+
+            TestClassB TCBA = new TestClassA();
+            TCBA.Show();
+
+            Console.ReadLine();                      
+        }
+    }
+}
+```
+
+```c#
+```
+
+```c#
+```
