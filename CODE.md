@@ -140,83 +140,39 @@ namespace List_Capacity
 ```
 
 ```c#
-namespace CMDTEST
-{
-    public class TestClassA:TestClassB
+class Program
     {
-        public override void Show()
+        static void CallByValue(int Fun_Test)
         {
-            Console.WriteLine("This is A Method");
+            Fun_Test++;
         }
-    }
 
-    public class TestClassB
-    {
-        public virtual void Show()
+        static void CallByRef(ref int Fun_Test)
         {
-            Console.WriteLine("This is B Method");
+            Fun_Test++;
         }
-    }
 
-    class Program
-    {
+        static void CallByOut(out int Fun_Test)
+        {
+            Fun_Test = 0;
+            Fun_Test++;
+        }
+
         static void Main(string[] args)
         {
-            TestClassA TCA = new TestClassA();
-            TCA.Show();
+            int MainTest = 0;
 
-            TestClassB TCB = new TestClassB();
-            TCB.Show();
+            CallByValue(MainTest);
+            Console.WriteLine(MainTest);
 
-            TestClassB TCBA = new TestClassA();
-            TCBA.Show();
+            CallByRef(ref MainTest);
+            Console.WriteLine(MainTest);
+            Console.ReadLine();
 
-            Console.ReadLine();                      
+            int MainOutTest;
+            CallByOut(out MainOutTest);
+            Console.WriteLine(MainOutTest);
+            Console.ReadLine();
         }
     }
-}
-```
-
-```c#
-namespace CMDTEST
-{
-    public class TestClassA:TestClassB
-    {
-        public  new void Show()
-        {
-            Console.WriteLine("This is A Method");
-        }
-    }
-
-    public class TestClassB
-    {
-        public void Show()
-        {
-            Console.WriteLine("This is B Method");
-        }
-    }
-
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            TestClassA TCA = new TestClassA();
-            TCA.Show();
-
-            TestClassB TCB = new TestClassB();
-            TCB.Show();
-
-            TestClassB TCBA = new TestClassA();
-            TCBA.Show();
-
-            Console.ReadLine();                      
-        }
-    }
-}
-```
-
-```c#
-```
-
-```c#
 ```
