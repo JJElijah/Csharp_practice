@@ -188,8 +188,10 @@ namespace DelegatePractice
         static void Main(string[] args)
         {
             //NoReturn
-            DelegateTestParameter DT = new DelegateTestParameter(Show);
-
+            DelegateTestParameter DTP = new DelegateTestParameter(Show);
+            DTP.Invoke("Hello!!DelegateWithInvoke");
+            DTP("Hello!!Delegate");
+            
             //ReturnString
             DelegateTestReturnString DTRS = new DelegateTestReturnString(ReturnStringShow);
             Console.WriteLine(DTRS());
@@ -202,7 +204,7 @@ namespace DelegatePractice
         }
 
         static string ReturnStringShow() {
-            return "Hello!ReturnDelegate";
+            return "Hello!!ReturnDelegate";
         }
     }
 }
