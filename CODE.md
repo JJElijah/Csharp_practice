@@ -176,3 +176,34 @@ class Program
         }
     }
 ```
+
+```c#
+namespace DelegatePractice
+{
+     public class Program
+     {
+        public delegate void DelegateTestParameter(string text);
+        public delegate string DelegateTestReturnString();
+
+        static void Main(string[] args)
+        {
+            //NoReturn
+            DelegateTestParameter DT = new DelegateTestParameter(Show);
+
+            //ReturnString
+            DelegateTestReturnString DTRS = new DelegateTestReturnString(ReturnStringShow);
+            Console.WriteLine(DTRS());
+            Console.ReadLine();
+        }
+
+        static void Show(string fun_text)
+        {
+            Console.WriteLine(fun_text);
+        }
+
+        static string ReturnStringShow() {
+            return "Hello!ReturnDelegate";
+        }
+    }
+}
+```
