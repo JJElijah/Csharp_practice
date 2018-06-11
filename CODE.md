@@ -268,7 +268,8 @@ static void Main(string[] args)
                 Test = 2
             });
 
-            List<TestClass> list2 = new List<TestClass>();
+            List<TestClass> list2 = new List<TestClass>(list1);
+            Console.WriteLine($"list2.Count:{list2.Count}");
             list1.Clear();
 
             Console.WriteLine($"list1.Count:{list1.Count}");
