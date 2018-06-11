@@ -209,3 +209,34 @@ namespace DelegatePractice
     }
 }
 ```
+
+```c#
+static void Main(string[] args)
+        {
+            ArrayList list = new ArrayList();
+
+            Stopwatch sw = new Stopwatch();
+            sw.Start();
+            for (int i = 1; i <= 50000; i++)
+            {
+                list.Add(i);
+            }
+            sw.Stop();
+
+            Console.WriteLine($"Spend Time:{sw.Elapsed}");
+
+            Console.ReadLine();
+
+            sw.Reset();
+            List<int> intList = new List<int>();
+            sw.Start();
+            for (int i = 1; i <= 50000; i++)
+            {
+                intList.Add(i);
+            }
+            sw.Stop();
+            Console.WriteLine($"Spend Time:{sw.Elapsed}");
+
+            Console.ReadLine();
+        }
+```
