@@ -240,3 +240,40 @@ static void Main(string[] args)
             Console.ReadLine();
         }
 ```
+
+```c#
+static void Main(string[] args)
+        {
+            List<int> intList1 = new List<int>();
+            intList1.Add(1);
+            intList1.Add(2);
+            intList1.Add(3);
+
+            List<int> intList2 = new List<int>(intList1);
+            intList1[0] = 100;
+
+            Console.WriteLine($"intList2[0]:{intList2[0]}");
+            Console.ReadLine();
+        }
+
+static void Main(string[] args)
+        {
+            List<TestClass> list1 = new List<TestClass>();
+            list1.Add(new TestClass(){
+                Test = 1
+            });
+
+            list1.Add(new TestClass()
+            {
+                Test = 2
+            });
+
+            List<TestClass> list2 = new List<TestClass>();
+            list1.Clear();
+
+            Console.WriteLine($"list1.Count:{list1.Count}");
+            Console.WriteLine($"list2.Count:{list2.Count}");
+
+            Console.ReadLine();
+        }
+```
