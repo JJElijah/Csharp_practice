@@ -278,3 +278,65 @@ static void Main(string[] args)
             Console.ReadLine();
         }
 ```
+
+序列化
+```c#
+[Serializable]
+    public class TestClass
+    {
+        public int Test1;
+        public int Test2;
+        public string TestStr;
+    }
+
+    class Program
+    {
+        static private TestClass _TC1 = new TestClass() {
+            Test1 = 10,
+            Test2 = 20,
+            TestStr = "TC1"
+        };
+
+        static private TestClass _TC_Clone = new TestClass();
+
+        static private IFormatter _formatter = new BinaryFormatter();
+
+        static void SeriableMethod() {
+            using (Stream stream = new FileStream("MyFile.bin", FileMode.Create, FileAccess.Write, FileShare.None))
+            {
+                _formatter.Serialize(stream, _TC1);
+                stream.Close();
+            }
+        }
+
+        static void DeSeriableMethod()
+        {
+            using (Stream stream = new FileStream("MyFile.bin", FileMode.Open, FileAccess.Read, FileShare.Read))
+            {
+                _TC_Clone =  (TestClass)_formatter.Deserialize(stream);
+                stream.Close();
+            }
+        }
+
+        static void Main(string[] args)
+        {
+            SeriableMethod();
+            DeSeriableMethod();
+
+            Console.WriteLine(_TC_Clone.Test1);
+            Console.WriteLine(_TC_Clone.Test2);
+            Console.WriteLine(_TC_Clone.TestStr);
+            Console.ReadLine();
+
+            Console.WriteLine("修改TC1");
+            _TC1.Test1 = 100;
+            _TC1.Test2 = 200;
+
+            Console.WriteLine(_TC_Clone.Test1);
+            Console.WriteLine(_TC_Clone.Test2);
+            Console.WriteLine(_TC_Clone.TestStr);
+            Console.ReadLine();
+
+        }
+    }
+```
