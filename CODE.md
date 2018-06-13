@@ -336,7 +336,27 @@ static void Main(string[] args)
             Console.WriteLine(_TC_Clone.Test2);
             Console.WriteLine(_TC_Clone.TestStr);
             Console.ReadLine();
-
         }
     }
+```
+
+```c#
+static void Main(string[] args)
+        {
+            int value1 = 5;
+            object valueObj = value1;
+            object Test = valueObj;
+
+            value1 = 50;
+
+            Console.WriteLine($"value1 = {value1}");
+            Console.WriteLine($"valueObj = {valueObj}");
+
+            Console.ReadLine();
+
+            int value2 = (int)valueObj;
+            Console.WriteLine($"value2 = {value2}");
+
+            Console.ReadLine();
+        }
 ```
